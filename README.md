@@ -1,2 +1,2 @@
 # charming16.github.io
-从啥也不会到会一点点。
+Set a website. Thank to the web tutorial in MDN. 
