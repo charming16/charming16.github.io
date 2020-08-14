@@ -1,2 +1,2 @@
 # charming16.github.io
-Set a website. Thank to the web tutorial in MDN. 
+Set a website. Thanks to the web tutorial in MDN. 
